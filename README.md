@@ -1,3 +1,7 @@
+> **Warning:** Note: This is experimental vibe-coded software. Please do not
+> use this for real money. Use the official SeedPicker at
+> https://seedpicker.net instead.
+
 # SeedPicker [![Build Status](https://travis-ci.com/merland/seedpicker.svg?branch=master)](https://travis-ci.com/merland/seedpicker)
 
 # [Looking for the SeedPicker Last Word calculator? Click here!](https://seedpicker.net/calculator/last-word.html)
