@@ -163,8 +163,9 @@
               <sup>
                 <span
                   class="icon is-small tooltip has-tooltip-multiline has-tooltip-arrow"
-                  data-tooltip="Use this word as the 24th word of your seed phrase. More than one word may
-                              be valid, but for consistency SeedPicker always generates the same 24th word."
+                  data-tooltip="Every word below is a valid 24th word for the first 23 words you entered.
+                              Click a word to use it and calculate its Extended Public Key.
+                              More than one word may be valid; by default the first one is used."
                   onclick=""
                 >
                   <i class="fas fa-question-circle"></i>
@@ -172,6 +173,10 @@
               </sup>
             </span>
           </div>
+          <div class="resultheading">
+            All valid 24th words (click one to use it)
+          </div>
+          <div id="checksum_words_list" class="buttons"></div>
           <!--            </span>-->
           <div class="resultheading">Full seed phrase</div>
           <div id="complete_phrase" class="has-text-weight-bold"></div>
