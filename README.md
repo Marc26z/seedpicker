@@ -1,6 +1,6 @@
-> **Warning:** Note: This is experimental vibe-coded software. Please do not
-> use this for real money. Use the official SeedPicker at
-> https://seedpicker.net instead.
+> **Warning:** Note: This is experimental vibe-coded software. This was made
+> to check the seedsigner checksums. Please do not use this for real money.
+> Use the official SeedPicker at https://seedpicker.net instead.
 
 # SeedPicker [![Build Status](https://travis-ci.com/merland/seedpicker.svg?branch=master)](https://travis-ci.com/merland/seedpicker)
 
